@@ -34,11 +34,10 @@
   <a href="https://www.linkedin.com/in/viniciusyukichi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
+ <p align="center"> 
 
   ![Snake animation](https://github.com/SouYukichi/SouYukichi/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+ </p>
 
 <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
