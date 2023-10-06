@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou um programador front-end e um apaixonado por jogos e pelo desenvolvimento de sites e webpages.
+    Sou um desenvolvedor e um apaixonado por jogos e pelo desenvolvimento de sites e webpages.
   </p>
 </div>
 
