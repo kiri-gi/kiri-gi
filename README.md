@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou um desenvolvedor e um apaixonado por jogos.
+    Sou um desenvolvedor caminhando ao full-stack
   </p>
 </div>
 
