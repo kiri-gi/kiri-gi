@@ -46,15 +46,15 @@ Eae, tudu bom? Eu sou o Vinicius, mas pode me chamar de Kimo. Natural de São Pa
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg](https://devicon-website.vercel.app/api/csharp/original.svg)" 
 />
 <img 
     align="left" 
-    alt="Csharp" 
+    alt="C#" 
     title="C#"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+    src=""
 />
 
 <br/>
