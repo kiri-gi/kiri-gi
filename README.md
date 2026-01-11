@@ -68,7 +68,7 @@ Eae, tudu bom? Eu sou o Vinicius, mas pode me chamar de Kimo. Natural de São Pa
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=kiri-gi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiri-gi&show_icons=true&theme=dracula)" 
   />
 
 <img 
