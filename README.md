@@ -68,14 +68,14 @@ Eae, tudu bom? Eu sou o Vinicius, mas pode me chamar de Kimo. Natural de São Pa
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=kiri-gi&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats-two-beige-13.vercel.app/api?username=kiri-gi&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiri-gi&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats-two-beige-13.vercel.app/api/top-langs/?username=kiri-gi&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
